@@ -1,4 +1,4 @@
-# Module_4_Challenge: Portfolio Analysis With Pandas
+# Portfolio Analysis With Pandas
 
 This repo contains a notebook file and a folder of supplementary files. They document performance analysis, risk analysis, rolling statistics and visualizations to determine if various portfolios outperform the market. 
 
